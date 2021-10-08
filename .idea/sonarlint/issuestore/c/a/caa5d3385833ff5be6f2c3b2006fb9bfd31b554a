@@ -1,0 +1,13 @@
+
+3
+java:S2386"Make this member "protected".(¦ÜÎ¤
+\
+java:S11173"ARename "clientHandler" which hides the field declared at line 11.(ìĞÒüÿÿÿÿ
+ƒ
+java:S1319"mThe type of "clientHandler" should be an interface such as "List" rather than the implementation "ArrayList".(¦ÜÎ¤
+o
+java:S1104"YMake clientHandler a static final constant or non-public and provide accessors if needed.(¦ÜÎ¤
+I
+java:S1444"3Make this "public static clientHandler" field final(¦ÜÎ¤
+2
+java:S1700"Rename field "clientHandler"(¦ÜÎ¤
